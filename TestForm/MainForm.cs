@@ -30,7 +30,6 @@ namespace TestForm
       private void button1_Click(object sender, EventArgs e)
       {
          this.textBox1.Text = "something";
-         this.openFileDialog1.ShowDialog();
       }
    }
 }
