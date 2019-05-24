@@ -1,3 +1,3 @@
 cd /d %~dp0
-scp C:\Prime\DevelopPrinter\Dev_TouchScreen\TestForm\bin\Release\TestForm.exe linaro@tboardx:/opt/mono
+scp C:\Prime\DevelopComm\Dev_UView\TestForm\bin\Release\TestForm.exe linaro@tboardx:/home/linaro/mono
 pause
