@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ac5bbb04-0fce-429d-b991-a870fa35cd92}</ProjectGuid>
+    <ProjectGuid>{AC5BBB04-0FCE-429D-B991-A870FA35CD92}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ChartOne</RootNamespace>
     <AssemblyName>ChartOne</AssemblyName>
@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
